@@ -1,0 +1,83 @@
+Skip to Play Sketch
+Cookies
+The p5.js Editor uses cookies. Some are essential to the website functionality and allow you to manage an account and preferences. Others are not essential—they are used for analytics and allow us to learn more about our community. We never sell this data or use it for advertising. You can decide which cookies you would like to allow, and learn more in our Privacy Policy.
+
+
+Allow All
+
+Allow Essential
+Arquivo
+Editar
+Esboço
+Ajuda
+Português
+Olá, 00001103372245sp!
+
+
+
+Auto-atualizar
+
+Paper dugong
+por 00001103372245sp
+
+
+Arquivos do Esboço
+
+
+i
+nde
+x
+.html
+
+
+s
+ketc
+h
+.js
+
+s
+tyl
+e
+.css
+
+index.html
+Salvo: 7 dias atrás
+1
+<!DOCTYPE html>
+2
+<html lang="en">
+3
+  <head>
+4
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/p5.js"></script>
+5
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/addons/p5.sound.min.js"></script>
+6
+    <link rel="stylesheet" type="text/css" href="style.css">
+7
+    <meta charset="utf-8" />
+8
+​
+9
+  </head>
+10
+  <body>
+11
+    <main>
+12
+    </main>
+13
+    <script src="sketch.js"></script>
+14
+  </body>
+15
+</html>
+16
+​
+Não há mensagens de Lint
+Linha atuallinha 1
+
+Terminal
+Limpar
+
+Prévia
